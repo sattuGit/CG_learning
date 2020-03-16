@@ -1,6 +1,8 @@
 #include <iostream>
 #include <fstream>
 #include <string.h>
+#include "fileBuff.h"
+
 using namespace std;
 int main(){
 	cout<<"JaiShriRam\n";
