@@ -8,7 +8,8 @@
 #ifndef FILEBUFF_H_
 #define FILEBUFF_H_
 
-class loadFile{
+class loadFile
+{
  
 };
 
