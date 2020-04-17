@@ -16,7 +16,7 @@ int main(){
 		if(outfile==NULL){
 			cout<<"ERROR wile opeing the file \n";
 			return 0;
-	}
+	} 
 
 		fseek(infile,0L,SEEK_END);
 		unsigned long   sz = ftell(infile);
