@@ -9,7 +9,7 @@
 #define FILEBUFF_H_
 
 class loadFile{
-
+ 
 };
 
 class fileBuff:private loadFile {
