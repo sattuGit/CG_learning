@@ -21,7 +21,7 @@ int main(){
 		fseek(infile,0L,SEEK_END);
 		unsigned long   sz = ftell(infile);
 		cout<<sz<<endl;
-		fseek(infile,0,SEEK_SET);
+		fseek(infile,0,SEEK_SET); 
 
 		unsigned char evenBuff[1], oddBuff[1];
 
